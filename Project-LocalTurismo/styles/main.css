@@ -1,0 +1,77 @@
+/* hero section */
+.hero-img {
+  border-radius: 20px;
+  /* Nesta situação eu usei o 100% para usar ao maximo a largura que eu restringi anteriormente */
+  width: 100%;
+}
+.hero-text {
+  color: #333333;
+  text-align: center;
+  margin: 24px 0px 44px 0px;
+}
+
+/* amantes section*/
+.amantes-subtitle {
+  color: red;
+  margin-bottom: 2px;
+}
+.amantes-title {
+  margin-bottom: 8px;
+}
+.amantes-text {
+  text-align: justify;
+  margin: 8px 0px 64px 0px;
+}
+
+/* haedong section */
+.haedong-img {
+  width: 100%;
+  border-radius: 16px;
+}
+.haedong-title {
+  margin-top: 20px;
+}
+.haedong-text {
+  margin: 4px 0px 48px 0px;
+}
+.haedong-text span {
+  color: blue;
+}
+
+/* beomeo section */
+.beomeo-img {
+  width: 100%;
+  border-radius: 16px;
+}
+.beomeo-title {
+  margin-top: 20px;
+}
+.beomeo-text {
+  margin: 4px 0px 48px 0px;
+  text-align: justify;
+}
+.beomeo-text span {
+  color: blue;
+}
+
+/* youngdusan section*/
+.youngdusan-img {
+  width: 100%;
+  border-radius: 16px;
+}
+.youngdusan-title {
+  margin-top: 20px;
+}
+.youngdusan-text {
+  margin: 4px 0px 80px 0px;
+  text-align: justify;
+}
+.color1 {
+  color: #591b98;
+}
+.color2 {
+  color: #e5245e;
+}
+.color3 {
+  color: #e95e10;
+}
